@@ -43,9 +43,9 @@ npm run lint
 
 ## IBM Services
 ```
-1. [IBM Waston Assistant]
-2. [IBM Node Red]
-3. [Database]
+1. IBM Waston Assistant
+2. IBM Node Red
+3. Database
 ```
 
 ### Customize configuration
