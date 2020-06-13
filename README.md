@@ -9,7 +9,12 @@ increase awareness at the onset of incidents which require emergency response an
 
 How technology can help?
 
-The use of wearable technology and/or sensors can be used to monitor vital signs or movements of the elderly around the house. In the event that there is an anomaly detected in the data collected, a CFR would be alerted to check on the well-being of the elderly. 
+The use of wearable technology and/or sensors can be used to monitor vital signs or movements of the elderly around the house. In the event of an emergency, a CFR can respond to the distress signals sent out via an online monitoring application, assess the severity of the situation and assist the person in distress.
+
+
+Our proposed idea:
+
+Swift and timely intervention is essential to ensure that medical assistance reaches the vulnerable population when such incidents occur, such as a fall or unattended house fires. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable CFRs and the relevant authorities to effectively respond to a potential emergency.
 
 
 
