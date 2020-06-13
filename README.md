@@ -41,11 +41,11 @@ npm run build
 npm run lint
 ```
 
-## Services
+## IBM Services
 ```
-* [IBM Waston Assistant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-* [IBM Node Red](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
-* [Database](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
+1. [IBM Waston Assistant]
+2. [IBM Node Red]
+3. [Database]
 ```
 
 ### Customize configuration
