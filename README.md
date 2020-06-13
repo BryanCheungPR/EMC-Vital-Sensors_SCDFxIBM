@@ -19,7 +19,7 @@ Swift and timely intervention is essential to ensure that medical assistance rea
 
 
 
-# ibm
+# IBM
 
 ## Project setup
 ```
@@ -39,6 +39,13 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
+```
+
+## Services
+```
+* [IBM Waston Assistant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
+* [IBM Node Red](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
+* [Database](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
 ```
 
 ### Customize configuration
