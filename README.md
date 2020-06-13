@@ -3,8 +3,7 @@ SHORT DESCRIPTION:
 
 Problem definition:
 
-Singapore is currently facing an increasing ageing population, caused by increased life expectancy and decreasing birth rates. As a result, there has a steady increase in the vulnerable populations in recent times. Additionally, there has been an increasing trend of elderly with no next on kin to attend to their needs, putting the vulnerable populations at risk of accidents. Hence, it is important to
-increase awareness at the onset of incidents which require emergency response and mobilise CFRs for early intervention in order to mitigate the extent of such accidents.
+Singapore is currently facing an increasing ageing population, due to increased life expectancy and decreasing birth rates. As a result, this has led to a steady increase in the vulnerable population. The vulnerable population in Singapore consists mainly of the elderly and people with physical disabilities. In addition, there has been an increasing trend of elderly with no next on kin to attend to their needs, thus putting the vulnerable populations at risk of accidents. Hence, it is important to increase awareness at the onset of incidents which require emergency response and mobilise CFRs for early intervention in order to mitigate the extent of such accidents.
 
 
 How technology can help?
