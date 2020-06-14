@@ -1,5 +1,3 @@
-![test](The20%Architecture.JPG)
-
 SHORT DESCRIPTION:
 
 
