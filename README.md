@@ -20,27 +20,3 @@ Swift and timely intervention is essential to ensure that medical assistance rea
 ![The Architecture](https://user-images.githubusercontent.com/65862587/84587380-47e51180-ae51-11ea-8b1c-18e775baf11d.JPG)
 
 
-# IBM
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
