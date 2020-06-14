@@ -44,7 +44,8 @@ on top of assisting, user is able to request explanations for diseases, illnesse
 Cloud function is used to utilised wikipedia API to obtain results when user requested explanation on medical terms. 
 
 4) Visual Studio Code
-used together with c/c++ extension to code a console application to analyse heart rate sensor's data to decide the next mode of action which includes sending distress signal to CFRs and distress signal directly to SCDF in the event of no response from CFR
+
+Used together with c/c++ extension to code a console application to analyse heart rate sensor's data to decide the next mode of action which includes sending distress signal to CFRs and distress signal directly to SCDF in the event of no response from CFR
 
 
 ## The Architecture:
