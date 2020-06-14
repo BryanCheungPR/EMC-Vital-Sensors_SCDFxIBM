@@ -52,3 +52,11 @@ Used together with c/c++ extension to code a console application to analyse hear
 ## The Architecture:
 
 ![The Architecture](https://user-images.githubusercontent.com/65862587/84587380-47e51180-ae51-11ea-8b1c-18e775baf11d.JPG)
+
+
+## Live Demo: 
+
+Watson assistant to supplement the current CFR application can be found directly at this link:
+
+https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=2a45b6ec-8c6a-4bb5-aecd-10d62c39e41d&serviceInstanceID=d0fa605d-d481-4d4a-83c2-b9964e9a56d9
+
