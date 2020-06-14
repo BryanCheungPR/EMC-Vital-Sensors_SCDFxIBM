@@ -1,4 +1,4 @@
-## SHORT DESCRIPTION:
+## Short description:
 
 
 ## Problem definition:
@@ -15,7 +15,8 @@ The use of wearable technology and/or sensors can be used to monitor vital signs
 
 Swift and timely intervention is essential to ensure that medical assistance reaches the vulnerable population when such incidents occur, such as a fall or unattended house fires. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable CFRs and the relevant authorities to effectively respond to a potential emergency.
 
-## The architecture
+## The architecture:
+
 ![The Architecture](https://user-images.githubusercontent.com/65862587/84587380-47e51180-ae51-11ea-8b1c-18e775baf11d.JPG)
 
 
@@ -39,13 +40,6 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
-```
-
-## IBM Services
-```
-1. IBM Waston Assistant
-2. IBM Node Red
-3. Database
 ```
 
 ### Customize configuration
