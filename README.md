@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=ZGRSyAWnCbA
 
 ## Detail Solution:
 
-https://docs.google.com/document/d/1lq4sG2jqJ4fhoC9lTFAym2TtL8LTV3ePjyCdNVslrZg/edit?usp=sharing
+https://docs.google.com/document/d/1lq4sG2jqJ4fhoC9lTFAym2TtL8LTV3ePjyCdNVslrZg/edit
 
 
 ## Getting Started With Demo: 
