@@ -81,21 +81,3 @@ void main()
     }
 }
 
-// void distress()
-// {
-//     char response;
-//     printf("Nearby CFRs, help is required.\nPlease indicate y/n to respond to distress signal");
-//     scanf("%c", &response);
-
-//     switch (response)
-//     {
-//     case 'y':
-//     case 'Y':
-//         printf("CFR is on his/her way");
-//         break;
-//     case 'n':
-//     case 'N':
-//         printf("SCDF has been alerted");
-//         break;
-//     }
-// }
