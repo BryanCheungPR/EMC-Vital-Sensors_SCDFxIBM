@@ -1,7 +1,3 @@
-![TEST](The Architecture.JPG)
-
-
-
 SHORT DESCRIPTION:
 
 
