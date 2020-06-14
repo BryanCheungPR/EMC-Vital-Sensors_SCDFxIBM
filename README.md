@@ -1,22 +1,25 @@
-## Short description:
+## Short Description:
 
 
-## Problem definition:
+## Problem Definition:
 
 Singapore is currently facing an increasing ageing population, due to increased life expectancy and decreasing birth rates. As a result, this has led to a steady increase in the vulnerable population. The vulnerable population in Singapore consists mainly of the elderly and people with physical disabilities. In addition, there has been an increasing trend of elderly with no next on kin to attend to their needs, thus putting the vulnerable populations at risk of accidents. Hence, it is important to increase awareness at the onset of incidents which require emergency response and mobilise CFRs for early intervention in order to mitigate the extent of such accidents.
 
 
-## How technology can help?
+## How Technology Can Help?
 
 The use of wearable technology and/or sensors can be used to monitor vital signs or movements of the elderly around the house. In the event of an emergency, a CFR can respond to the distress signals sent out via an online monitoring application, assess the severity of the situation and assist the person in distress.
 
 
-## Our proposed idea:
+## Our Proposed Idea:
 
 Swift and timely intervention is essential to ensure that medical assistance reaches the vulnerable population when such incidents occur, such as a fall or unattended house fires. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable CFRs and the relevant authorities to effectively respond to a potential emergency.
 
-## The architecture:
+## The Architecture:
 
 ![The Architecture](https://user-images.githubusercontent.com/65862587/84587380-47e51180-ae51-11ea-8b1c-18e775baf11d.JPG)
 
 
+## Demo Application Link:
+
+https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=2a45b6ec-8c6a-4bb5-aecd-10d62c39e41d&serviceInstanceID=d0fa605d-d481-4d4a-83c2-b9964e9a56d9
