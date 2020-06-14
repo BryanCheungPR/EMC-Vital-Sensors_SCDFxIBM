@@ -1,3 +1,6 @@
+![The Architecture](https://user-images.githubusercontent.com/65862587/84587380-47e51180-ae51-11ea-8b1c-18e775baf11d.JPG)
+
+
 SHORT DESCRIPTION:
 
 
