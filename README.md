@@ -46,6 +46,12 @@ Watson assistant to supplement the current CFR application can be found directly
 
 https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=2a45b6ec-8c6a-4bb5-aecd-10d62c39e41d&serviceInstanceID=d0fa605d-d481-4d4a-83c2-b9964e9a56d9
 
+Working Demo:
+
+A working demonstration of the voice agent by Watson Assistant.
+
+https://www.youtube.com/watch?v=jz8Yo5wXnIQ&feature=youtu.be
+
 
 ## Bulding the Solution:
 
