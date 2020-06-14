@@ -19,6 +19,11 @@ Swift and timely intervention are essential to ensure that medical assistance re
 https://www.youtube.com/watch?v=ZGRSyAWnCbA
 
 
+## The Architecture:
+
+![The Architecture](https://user-images.githubusercontent.com/65862587/84587380-47e51180-ae51-11ea-8b1c-18e775baf11d.JPG)
+
+
 ## Detail Solution:
 
 https://docs.google.com/document/d/1lq4sG2jqJ4fhoC9lTFAym2TtL8LTV3ePjyCdNVslrZg/edit?usp=sharing
@@ -53,15 +58,6 @@ Cloud function is used to utilised wikipedia API to obtain results when user req
 4) Visual Studio Code
 
 Used together with c/c++ extension to code a console application to analyse heart rate sensor's data to decide the next mode of action which includes sending distress signal to CFRs and distress signal directly to SCDF in the event of no response from CFR
-
-
-## The Architecture:
-
-![The Architecture](https://user-images.githubusercontent.com/65862587/84587380-47e51180-ae51-11ea-8b1c-18e775baf11d.JPG)
-
-1. Sensor data will obtain the status from the user.
-2. Cloud Function used to utilise wikipedia API.
-3. Voice Agents used to guide procedures but Waston Assistant will be used for the demo.
 
 
 ## Live Demo: 
