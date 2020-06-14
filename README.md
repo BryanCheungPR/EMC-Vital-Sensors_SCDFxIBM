@@ -23,9 +23,11 @@ https://docs.google.com/document/d/1lq4sG2jqJ4fhoC9lTFAym2TtL8LTV3ePjyCdNVslrZg/
 ## Getting Started with Demo: 
 
 Watson assistant to supplement the current CFR application can be found directly at this link:
+
 https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=2a45b6ec-8c6a-4bb5-aecd-10d62c39e41d&serviceInstanceID=d0fa605d-d481-4d4a-83c2-b9964e9a56d9
 
 Console application can be launch through visual studio code with c/c++ extension and code runner extension. For windows user TDM-GCC must be installed in order to run the console application on VS code:
+
 https://jmeubank.github.io/tdm-gcc/download/
 
 
