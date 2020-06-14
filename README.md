@@ -40,6 +40,13 @@ Console application can be launch through visual studio code with c/c++ extensio
 https://jmeubank.github.io/tdm-gcc/download/
 
 
+## Live Demo: 
+
+Watson assistant to supplement the current CFR application can be found directly at this link:
+
+https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=2a45b6ec-8c6a-4bb5-aecd-10d62c39e41d&serviceInstanceID=d0fa605d-d481-4d4a-83c2-b9964e9a56d9
+
+
 ## Bulding the Solution:
 
 1) Voice Agent:
@@ -58,11 +65,3 @@ Cloud function is used to utilised wikipedia API to obtain results when user req
 4) Visual Studio Code
 
 Used together with c/c++ extension to code a console application to analyse heart rate sensor's data to decide the next mode of action which includes sending distress signal to CFRs and distress signal directly to SCDF in the event of no response from CFR
-
-
-## Live Demo: 
-
-Watson assistant to supplement the current CFR application can be found directly at this link:
-
-https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=2a45b6ec-8c6a-4bb5-aecd-10d62c39e41d&serviceInstanceID=d0fa605d-d481-4d4a-83c2-b9964e9a56d9
-
