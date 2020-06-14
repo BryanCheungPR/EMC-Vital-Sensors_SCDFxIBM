@@ -2,12 +2,13 @@
 
 ## Contents
 
-1. [Short description](#short-description)
+1. [Short Description](#short-description)
 1. [Video Pitch](#video-pitch)
-1. [The architecture](#the-architecture)
+1. [The Architecture](#the-architecture)
 1. [Detail Solution](#detail-solution)
-1. [Getting Started with Demo](#Getting-Started-with-Demo)
+1. [Getting Started With Demo](#Getting-Started-with-Demo)
 1. [Live Demo](#live-demo)
+1. [Buliding The Solution](#lBulding-the-Solution)
 
 
 ## Short Description:
@@ -41,7 +42,7 @@ https://www.youtube.com/watch?v=ZGRSyAWnCbA
 https://docs.google.com/document/d/1lq4sG2jqJ4fhoC9lTFAym2TtL8LTV3ePjyCdNVslrZg/edit?usp=sharing
 
 
-## Getting Started with Demo: 
+## Getting Started With Demo: 
 
 Watson assistant to supplement the current CFR application can be found directly at this link:
 
@@ -65,7 +66,7 @@ A working demonstration of the voice agent by Watson Assistant.
 https://www.youtube.com/watch?v=jz8Yo5wXnIQ&feature=youtu.be
 
 
-## Bulding the Solution:
+## Bulding The Solution:
 
 1) Voice Agent:
 
