@@ -55,9 +55,9 @@ Used together with c/c++ extension to code a console application to analyse hear
 
 ![The Architecture](https://user-images.githubusercontent.com/65862587/84587380-47e51180-ae51-11ea-8b1c-18e775baf11d.JPG)
 
-1. Sensor devices will obtain the status from the user.
+1. Sensor data will obtain the status from the user.
 2. Cloud Function used to utilise wikipedia API.
-3. Voice Agents used to guide procedures but waston assistant will be used for the demo.
+3. Voice Agents used to guide procedures but Waston Assistant will be used for the demo.
 
 
 ## Live Demo: 
